@@ -5,11 +5,11 @@ export const skillsData = [
     'React',
     'Python',
     'Git',
-    'Lightroom',
+    
     'Bootstrap',
     'Tailwind',
     'Figma',
-    'ChakraUI',
+    
     'AWS'
 ]
 
