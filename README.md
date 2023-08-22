@@ -25,6 +25,5 @@ The website will be available at `http://localhost:3000` in your web browser.
 
 Feel free to explore my portfolio and learn more about my skills and projects. Thank you for visiting! 🙏
 
----
 
-Please note that the information provided in this README is subject to change as the project evolves and grows.
+
